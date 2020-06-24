@@ -1,2 +1,2 @@
 # Basic
- SQL temellerine ait kısa örneklerden oluşan proje
+***SQL temellerine ait kısa örneklerden oluşan proje***
