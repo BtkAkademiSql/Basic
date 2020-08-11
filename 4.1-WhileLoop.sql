@@ -1,8 +1,8 @@
 /*
-while þart
-begin
-	çalýþacak kodlar
-end
+WHILE ÅŸart
+BEGIN
+	Ã§alÄ±ÅŸacak kodlar
+END
 */
 
 declare @Number int=10

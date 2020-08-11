@@ -6,3 +6,7 @@
 - **4-Loops** döngüler
   - **4.1-WhileLoop** while döngüsü
   - **4.2-JumpStatements** atlama ifadeleri(goto,break,continue)
+- **5-Table** 
+  - **5.1-Table** tablo tanımlama
+  - **5.2-TempTable** geçici tablo tanımlama
+  - **5.3-Keys** ilişkisel tablo tanımlama
