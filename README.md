@@ -1,7 +1,7 @@
 # Basic
 ***SQL temellerine ait kısa örneklerden oluşan proje***
 - **1-DataTypes** veri tipleri ve değişken tanımlama
-- **2-DDL** veri tanımlama dili
+- **2-DDL** data definition language(veri tanımlama dili)
 - **3-Conditions** şart ifadeleri(IfElse)
 - **4-Loops** döngüler
   - **4.1-WhileLoop** while döngüsü
@@ -11,3 +11,11 @@
   - **5.2-TempTable** geçici tablo tanımlama
   - **5.3-Keys** ilişkisel tablo tanımlama
   - **5.4-Index** 
+- **6-DML** data manipulation language(veri işleme dili)
+- **7-DQL** data query language(veri sorgulama dili)
+  - **7.1-Select**
+  - **7.2-Aggregate**
+  - **7.3-GroupBy**
+  - **7.4-Joins**
+
+  
