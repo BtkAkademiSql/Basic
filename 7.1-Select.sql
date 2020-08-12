@@ -10,10 +10,13 @@ Where
 
 SELECT ColumnName Alias
 SELECT Columns FROM TableName [WHERE Conditions]
+SELECT * FROM (TableResult)TableName
 */
 SELECT 'Veriler' DataAlias 
 UNION ALL
 SELECT 'Farklı verilere sahip tablo'
+UNION ALL
+SELECT * FROM (SELECT 'Başa sona parantez atarak yeni bir tabloymuş gibi sorgulanabilir' C)T1
 
 CREATE TABLE ##T1
 (

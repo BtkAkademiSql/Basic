@@ -17,5 +17,12 @@
   - **7.2-Aggregate**
   - **7.3-GroupBy**
   - **7.4-Joins**
-
+  - **7.5-Subquery**
+- **8-VirtualTables**
+  - **8.1-Views**
+  - **8.2-CTE** common table expression(ortak tablo ifadeleri)
+- **9-Functions
+  - **9.6-StringFunctions**
+  - **9.7-NumericFunctions**
+  - **9.8-DataFunctions**
   
