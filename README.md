@@ -14,7 +14,7 @@
 - **6-DML** data manipulation language(veri işleme dili)
 - **7-DQL** data query language(veri sorgulama dili)
   - **7.1-Select**
-    - **7.1.1-Aggregate**
+    - **7.1.1-AggregateFuntions**
     - **7.1.2-GroupBy**
     - **7.1.3-Joins**
     - **7.1.4-Subquery**
@@ -26,4 +26,5 @@
   - **9.2-StringFunctions**
   - **9.3-NumericFunctions**
   - **9.4-DataFunctions**
+  - **9.5-AdvancedFunctions**
   
