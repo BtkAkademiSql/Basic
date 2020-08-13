@@ -11,8 +11,8 @@ SELECT Columns FROM Table1 [JoinType] Table2 ON Conditions
 
 CROSS JOIN A ve B kümelerinin tüm kombinasyonlarını getirir
 
-CROSS APPLY inner join gibi çalışır
-OUTER APPLY left join gibi çalışır
+CROSS APPLY inner join gibi çalışır genelde table-valued fonksiyonlarında kullanılır
+OUTER APPLY left join gibi çalışır genelde table-valued fonksiyonlarında kullanılır
 */
 CREATE TABLE ##City
 (
