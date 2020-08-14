@@ -25,6 +25,6 @@
   - **9.1-UDF** user defined functions(kullanıcı tanımlı fonksiyonlar)
   - **9.2-StringFunctions**
   - **9.3-NumericFunctions**
-  - **9.4-DataFunctions**
+  - **9.4-DateFunctions**
   - **9.5-AdvancedFunctions**
   
