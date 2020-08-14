@@ -28,3 +28,6 @@
   - **9.4-DateFunctions**
   - **9.5-AdvancedFunctions**
 - **10-StoredProcedure**
+- **11-Transaction**
+- **12-TryCatch**
+- **13-Trigger**

@@ -6,8 +6,6 @@ BEGIN
 END
 
 EXEC ProcedureName [Parameters]
-
-
 */
 CREATE PROCEDURE SP_Divide @Number1 int=20 ,@Number2 int,@Result int output
 AS
