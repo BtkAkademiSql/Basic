@@ -31,3 +31,6 @@
 - **11-Transaction**
 - **12-TryCatch**
 - **13-Trigger**
+- **14-SPConfigure**
+- **15-WebRequest**
+- **16-Cursor**
