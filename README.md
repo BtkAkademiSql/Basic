@@ -34,3 +34,4 @@
 - **14-SPConfigure**
 - **15-WebRequest**
 - **16-Cursor**
+- **17-DDLTrigger**
